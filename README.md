@@ -26,8 +26,8 @@ This project leverages deep learning for the classification of kidney disease us
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
-cd Kidney-Disease-Classification-Deep-Learning-Project
+git clone https://github.com/themihirmathur/Kiddis.git
+cd Kiddis
 ```
 
 ### Create and Activate Conda Environment
@@ -58,7 +58,7 @@ mlflow ui
 
 ### Setting up MLflow with DagsHub
 ```sh
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/Kidney-Disease-Classification-MLflow-DVC.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/Kiddis.mlflow
 export MLFLOW_TRACKING_USERNAME=entbappy 
 export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 python script.py
