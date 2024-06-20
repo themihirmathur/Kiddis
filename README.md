@@ -1,4 +1,4 @@
-# Kidney Disease Classification with MLflow and DVC
+# Kiddis - Kidney Disease Classification with MLflow and DVC
 
 This project leverages deep learning for the classification of kidney disease using a combination of MLflow and DVC for experiment tracking, versioning, and orchestration. The project encompasses a structured workflow, facilitating both experimentation and production-grade deployment.
 
