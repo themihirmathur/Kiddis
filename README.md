@@ -1,6 +1,10 @@
-# Kiddis - Kidney Disease Classification with MLflow and DVC
+# Kiddis - Kidney Disease Classification with MLflow and DVC 
 
 This project leverages deep learning for the classification of kidney disease using a combination of MLflow and DVC for experiment tracking, versioning, and orchestration. The project encompasses a structured workflow, facilitating both experimentation and production-grade deployment.
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ![image](https://github.com/themihirmathur/Kiddis/assets/92594107/259ebb73-f060-4864-8b34-ed188e67a50e)
 
@@ -21,6 +25,10 @@ This project leverages deep learning for the classification of kidney disease us
 
 ### Application Entry Point
 - `app.py`: Main application file to run the project.
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## Running the Project
 
@@ -47,6 +55,10 @@ python app.py
 ```
 Now, open your local host and port to access the application.
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 ## MLflow Integration
 
 MLflow is used to track experiments, log models, and facilitate model deployment.
@@ -63,6 +75,10 @@ export MLFLOW_TRACKING_USERNAME=entbappy
 export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 python script.py
 ```
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## DVC Commands
 
@@ -83,6 +99,10 @@ dvc repro
 dvc dag
 ```
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 ## About MLflow & DVC
 
 ### MLflow
@@ -93,6 +113,10 @@ dvc dag
 - **Lightweight**: Ideal for proof-of-concept projects.
 - **Experiment Tracker**: Manages and tracks experiments.
 - **Pipeline Orchestration**: Enables creation and management of pipelines.
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## AWS CI/CD Deployment with GitHub Actions
 
@@ -149,3 +173,7 @@ ECR_REPOSITORY_NAME=kidney-disease-classification
 ---
 
 This project demonstrates a comprehensive approach to developing, experimenting, and deploying a deep learning model for kidney disease classification using modern MLOps tools and practices.
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
